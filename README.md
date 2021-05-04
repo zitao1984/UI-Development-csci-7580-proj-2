@@ -1,4 +1,4 @@
-# csci-7580-proj-2
+# csci-7580-proj-2 Note-taking app
 
 ## Description
 A prototype note-taking app. My system system will use mock data to
