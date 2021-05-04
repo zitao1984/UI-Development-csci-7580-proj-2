@@ -1,0 +1,60 @@
+h2{
+    font-size:40px;
+    font-family: Arial sans-serif;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 35px;
+    font-weight: bolder;
+    color: #057ef6;
+}
+
+.title{
+    font-size:80px;
+    color: #d05082;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+.projectWindow{
+   margin-bottom: 5%;
+    padding: 0 7% 0 7%;
+}
+
+#section{
+    margin-bottom: 5%;
+}
+
+.projectWindowFont{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.buttonCustom{
+    float:right;
+}
+
+.newNoteButton{
+    margin-top: 2%;
+}
+
+.feedbackCustomize{
+    color:green;
+}
+
+.fontAddNote{
+    font-weight: bold;
+}
+
+.whiteSpace{
+    white-space: pre-wrap;
+}
+
+.projectContainer{
+    margin-bottom: 10%;
+}
+
